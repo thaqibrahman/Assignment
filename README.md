@@ -35,3 +35,9 @@ This project demonstrates fundamental frontend development skills, including for
 - Database support for user authentication
 - Password encryption
 - Session management
+
+
+
+https://github.com/user-attachments/assets/2b12be63-11ce-4bf0-994c-d3407d28f840
+
+
